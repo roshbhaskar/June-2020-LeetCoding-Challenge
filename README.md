@@ -10,4 +10,5 @@ Started from week 4 :)
 25th - Find the duplicate number
 26th - Sum root to leaf numbers
 27th - Perfect Squares
+29th - Unique Paths
 ```
